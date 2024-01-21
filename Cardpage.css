@@ -1,0 +1,14 @@
+.Click {
+    height: 50vh;
+    /* overflow: auto; */
+    /* margin-top: 35px; */
+    display: flex;
+    /* margin-bottom: 35px; */
+    width: fit-content;
+    align-content: flex-start;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: unset;
+    /* row-gap: 50%; */
+    align-items: stretch;
+}
